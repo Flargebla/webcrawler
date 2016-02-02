@@ -1,2 +1,0 @@
-# webcrawler
-Fun webcrawler project
