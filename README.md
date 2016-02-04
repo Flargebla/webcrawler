@@ -3,8 +3,8 @@
 =================================================
 
 ##Current Project Leads:
-*Connor Zapfel, class of 2018, Cybersecurity major
-*Jonathan Eugenio, class of 2018, Physics major
+* Connor Zapfel, class of 2018, Cybersecurity major
+* Jonathan Eugenio, class of 2018, Physics major
 
 =================================================
 
